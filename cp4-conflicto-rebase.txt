@@ -24,4 +24,4 @@ Archivos sin seguimiento:
 - Nota 1: versión desde main.
 =======
 - Nota 1: pendiente de completar.
->>>>>>> 9d388b9 (Añade notas iniciales de la funcionalidad
+>>>>>>> 9d388b9 (Añade notas iniciales de la funcionalidad.

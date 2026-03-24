@@ -4,5 +4,5 @@
 e272ea8 (origin/main, origin/HEAD) add deadline
 20f2714 Initial commit
 
-Lo que ha cambiado con respeto al historial ha sido que Añade notas iniciales de la funcionalidad a pasado de estar debajo de Actualiza changelog a v1.1 a estar arriba.
+Lo que ha cambiado con respeto al historial ha sido que Añade notas iniciales de la funcionalidad a pasado de estar debajo de Actualiza changelog a v1.1 a estar arriba
 

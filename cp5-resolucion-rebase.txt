@@ -1,0 +1,11 @@
+b97bb7f (HEAD -> feature-notas) Modifica notas en feature-notas
+dea930c Añade notas iniciales de la funcionalidad
+a9f3bcf (main) Crea notas en main
+11a2d53 Actualiza changelog a v1.1
+8cec92c Crea changelog con versión inicial
+e272ea8 (origin/main, origin/HEAD) add deadline
+20f2714 Initial commit
+
+Lo he resuelto editando notas y poniendo una version combinada de main y feature-notas.
+
+Lo usaria para deshacer el rebase en caso de equivocarme

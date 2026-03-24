@@ -1,0 +1,27 @@
+rebase interactivo en progreso; sobre a9f3bcf
+El último comando realizado (1 comando realizado):
+   pick 9d388b9 Añade notas iniciales de la funcionalidad
+Siguiente comando a realizar (1 comando restante):
+   pick 7bddd82 Modifica notas en feature-notas
+  (usa "git rebase --edit-todo" para ver y editar)
+Estás aplicando un rebase de la rama 'feature-notas' sobre 'a9f3bcf.
+  (corrige los conflictos y ejecuta "git rebase --continue")
+  (usa "git rebase --skip" para omitir este parche)
+  (usa "git rebase --abort" para volver a tu rama original)
+
+Rutas no fusionadas:
+  (usa "git restore --staged <archivo>..." para sacar del área de stage)
+  (usa "git add <archivo>..." para marcar una resolución)
+	agregados por ambos:    notas.md
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que será confirmado)
+	cp1-estado-inicial-rebase.txt
+	cp2-divergencia.txt
+	cp3-despues-rebase.txt
+
+<<<<<<< HEAD
+- Nota 1: versión desde main.
+=======
+- Nota 1: pendiente de completar.
+>>>>>>> 9d388b9 (Añade notas iniciales de la funcionalidad

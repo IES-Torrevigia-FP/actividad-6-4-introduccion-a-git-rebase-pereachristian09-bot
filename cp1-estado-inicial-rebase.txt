@@ -3,5 +3,5 @@
 4b07192 (HEAD -> feature-notas) Añade notas iniciales de la funcionalidad
 8cec92c (main) Crea changelog con versión inicial
 e272ea8 (origin/main, origin/HEAD) add deadline
-20f2714 Initial commit
+20f2714 Initial commit.
 
